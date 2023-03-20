@@ -1,2 +1,2 @@
-vehicle.hello: Test from Config Server!
+vehicle.hello: 057dce227ddbbe8f564b99c86e02db94fa43b6363b42e991fba080ffb38c4c8712ec6fd14640642656967311e872e43f
 vehicle.shared: Shared from Config Server!
