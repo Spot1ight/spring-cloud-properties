@@ -1,2 +1,2 @@
 vehicle.hello: Hello from Config Server!
-vehicle.shared: Test from Config Server!
+vehicle.shared: Shared from Config Server!
